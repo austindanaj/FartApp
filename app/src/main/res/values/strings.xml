@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FartApp</string>
+
+    <!-- Text Values -->
+    <string name="fart_text_label">I am a fart label</string>
+    <string name="fart_title">The Fart Machine</string>
+</resources>
